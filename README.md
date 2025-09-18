@@ -1,2 +1,3 @@
-# bank-loan-analysis
-This project provides analysis scripts for Bank loan data. A set of exploratory queries to calculate KPIs such as funded amount, received payments, loan application trends,  good vs bad loan ratios, and customer/loan segmentation using MySQL Workbench. To demonstrate SQL proficiency in data analytics and investment banking contexts.
+# Project summary
+
+This repository contains SQL queries, transformation steps, and analysis-ready instructions to build a bank-loan analytics report from the financial_loan dataset. It is designed to run inside MySQL / MySQL Workbench and produces the KPIs and grouped reports used in dashboards: loan counts, funded amounts, received payments, interest & DTI averages, and segment breakdowns (status, month, state, term, purpose, employment length, home ownership, etc.)
